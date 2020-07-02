@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ot4H46yoKRZXa728hrgoAYz+1azHS0V5riWHsmANM5vC+oOt8s1NJk4IfAY7u1AnyRzdMsQn5o1b3lkgY2u3xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MinhNguyen\\Desktop\\Sources\\ChartSampleApp\\ChartSampleApp.iOS\\ChartSampleApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\skiasharp\\1.59.1\\skiasharp.1.59.1.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\skiasharp.views\\1.59.1.1\\skiasharp.views.1.59.1.1.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\skiasharp.views.forms\\1.59.1.1\\skiasharp.views.forms.1.59.1.1.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\stylecop.msbuild\\5.0.0\\stylecop.msbuild.5.0.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

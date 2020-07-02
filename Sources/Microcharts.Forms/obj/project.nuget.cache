@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BDnDIi9lT51hUYjwUndLJTR0ev2evFeflGmIV44MLzrFjLFFkrX5/VVn2ilTD7q4dFxjffV2Hi/QzdCqKAJpgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MinhNguyen\\Desktop\\Sources\\Microcharts.Forms\\Microcharts.Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\skiasharp\\1.59.1\\skiasharp.1.59.1.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\skiasharp.views.forms\\1.59.1.1\\skiasharp.views.forms.1.59.1.1.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\stylecop.msbuild\\5.0.0\\stylecop.msbuild.5.0.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\xamarin.forms\\2.4.0.280\\xamarin.forms.2.4.0.280.nupkg.sha512"
+  ],
+  "logs": []
+}

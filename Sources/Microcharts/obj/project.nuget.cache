@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3z8Y+wouTlQH2dRWhnHkNO7qia8DCsdiE7HA6Y4krL+76LPInknGvWQBHgLKtk0goYCKXULKsK/19PgBcu+VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MinhNguyen\\Desktop\\Sources\\Microcharts\\Microcharts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\skiasharp\\1.59.1\\skiasharp.1.59.1.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\stylecop.msbuild\\5.0.0\\stylecop.msbuild.5.0.0.nupkg.sha512",
+    "C:\\Users\\MinhNguyen\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

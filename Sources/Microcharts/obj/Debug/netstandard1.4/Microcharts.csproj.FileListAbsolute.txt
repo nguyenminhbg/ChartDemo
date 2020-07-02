@@ -1,0 +1,9 @@
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.xml
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.deps.json
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.dll
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\bin\Debug\netstandard1.4\Microcharts.pdb
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.AssemblyInfoInputs.cache
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.AssemblyInfo.cs
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.csproj.CoreCompileInputs.cache
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.dll
+C:\Users\MinhNguyen\Downloads\Microcharts-master\Microcharts-master\Sources\Microcharts\obj\Debug\netstandard1.4\Microcharts.pdb
